@@ -69,30 +69,30 @@ This skills is central to the Agile methodology.  Practice it now while you're s
 
 ## Notes
 
-__Things I learned__:
-*
-*
-*
-*
+__Things I learned__:  
+*  
+*  
+*  
+*  
 
-__New vocab words__:
-*
-*
-*
-*
+__New vocab words__:  
+*  
+*  
+*  
+*  
 
-__Struggles I had__:
-* 
-*
-*
-*
+__Struggles I had__:  
+*   
+*  
+*   
+*  
 
-__Plans for improving__:
-* 
-*
-*
-*
-
+__Plans for improving__:  
+*   
+*  
+*  
+*  
+  
 
 [TOP](#index)
 
