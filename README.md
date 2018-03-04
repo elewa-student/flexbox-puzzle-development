@@ -69,6 +69,9 @@ This skills is central to the Agile methodology.  Practice it now while you're s
 
 ## Notes
 
+__Project Planning__:  
+How long did it take to finish this, how long did you think it would take?
+
 __Things I learned__:
 *
 *
