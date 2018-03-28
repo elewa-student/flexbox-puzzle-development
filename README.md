@@ -60,7 +60,9 @@ This list is built by referring to the chart you made above.  You can put your u
 
 To use this list correctly you can't just plow through the list.  After finishing each story, pause and test the application:  Does the new story work? Do the old ones still work?  Your goal is to add _non-breaking_ features to your site, one at a time and in a logical order.
 
-This skills is central to the Agile methodology.  Practice it now while you're still building basic web pages, it will be hard to learn when you're in the middle of a deployment!
+Each time you finish a feature, mark the commit with a [Version Release](https://help.github.com/articles/creating-releases/).  This will allow you to easily check out previous versions of the website.
+
+This skills is central to the Agile methodology.  Practice it now while you're still building basic web pages, it will be hard to learn when you're in the middle of a deployment.
 
 
 [TOP](#index)
