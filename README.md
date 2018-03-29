@@ -20,7 +20,7 @@ In your description be sure to include:
 * [User Stories](#user-stories)
 * [Story Dependencies](#story-dependencies)
 * [Dev Schedule](#development-schedule)
-* [Wireframe](https://wireframe.cc/<your wireframe>)
+* [Wireframe](#wireframe)
 * [Notes](#notes)
 
 ---
@@ -68,6 +68,16 @@ This skills is central to the Agile methodology.  Practice it now while you're s
 [TOP](#index)
 
 ---
+
+## Wireframe
+
+Make a wireframe for your application, describe it, and explain why you designed it the way you did.
+
+* [My wireframe](https://wireframe.cc/<your wireframe id>)
+
+
+[TOP](#index)
+___
 
 ## Notes
 
