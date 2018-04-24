@@ -1,23 +1,11 @@
-> 1. Fork this repo
-> 2. change gh-settings to build from master
-> 3. Fill out this README
-> 4. Build your website according to your plan
-> 5. Require the testing scripts like in the demo
-> 6. Push your finished repo, add it to your gallery
+# FlexBox Puzzle
 
+This will be a puzzle where developers learning Flexbox can practice their FlexBox skills.  They will be presented with a scrambled image and will be expected to unscramble it using FlexBox CSS properties.
 
-# User Centered Website Project 
-
-Describe your site here.  We talk about apps as tools that allow Users to interact with data. 
-
-In your description be sure to include: 
-* Who your users are 
-* Why they want to use your app
-* What information they interact with
-* How they can interact with the data
 
 ### Index:
 * [User Stories](#user-stories)
+* [System Requirements](#system-requirements)
 * [Story Dependencies](#story-dependencies)
 * [Dev Schedule](#development-schedule)
 * [Wireframe](#wireframe)
@@ -28,14 +16,48 @@ In your description be sure to include:
 ## User Stories
 
 
-Write every interaction you'd like a user to have with your website.
+A user can ...
+* Solve the puzzle with CSS
+* See the class & id for each image fragment
+* See original 
+* See un-shuffled image
+* Undo back to original shuffle (delete your css)
+* See image at all times
+* Apply their CSS with a button
+* Choose a new puzzle (multiple shufflings)
+* Choose a different level 
+* (ranked difficulty of multiple shufflings)
+* Get a friendly message when they win
+* Get hints when they ask
 
-Don't worry about what order you write them in, that's what the next sections in the README are for.
 
 
 [TOP](#index)
 
 ---
+
+## System Requirements
+
+The system will ...
+* Un-scrambling image and CSS will be in the same window
+* The shuffled image will be updated when they ask for it
+* Have a live CSS editor in the UI
+* Class and ID info are displayed on shuffled image fragments
+
+
+[TOP](#index)
+
+---
+
+
+## Wireframe
+
+
+* [My wireframe](https://wireframe.cc/2sgv3U)
+
+
+[TOP](#index)
+___
 
 ## Story Dependencies
 
@@ -69,15 +91,6 @@ This skills is central to the Agile methodology.  Practice it now while you're s
 
 ---
 
-## Wireframe
-
-Make a wireframe for your application, describe it, and explain why you designed it the way you did.
-
-* [My wireframe](https://wireframe.cc/<your wireframe id>)
-
-
-[TOP](#index)
-___
 
 ## Notes
 
