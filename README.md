@@ -72,7 +72,7 @@ ___
 
 ## Development Schedule
 
-First complete version:
+First complete version:  
 0. Set-Up
 1. See un-shuffled image
 2. Embedded CSS editor
