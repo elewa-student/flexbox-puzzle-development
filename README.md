@@ -76,15 +76,15 @@ First complete version:
 0. Set-Up
 1. See un-shuffled image
 2. Embedded CSS editor
-  1. Apply CSS to image (unscrambling)
-  2. Be told you won
+    1. Apply CSS to image (unscrambling)
+    2. Be told you won
 3. Load a challenge
-  1. See shuffled image
-  2. Display CSS ID & class
+    1. See shuffled image
+    2. Display CSS ID & class
 
 Coolering our game:
 1. Choose a new shufling
-  1. Choose shufflings by difficulty
+    1. Choose shufflings by difficulty
 2. Ask for hints
 
 
