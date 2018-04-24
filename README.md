@@ -72,15 +72,20 @@ ___
 
 ## Development Schedule
 
-Write a list from 0 (set up project) to N (final step).
+First complete version:
+0. Set-Up
+1. See un-shuffled image
+2. Embedded CSS editor
+  1. Apply CSS to image (unscrambling)
+  2. Be told you won
+3. Load a challenge
+  1. See shuffled image
+4. Display CSS ID & class
 
-This list is built by referring to the chart you made above.  You can put your user stories in any order as long as you respect the parent/child relationships illustrated in the tree.
-
-To use this list correctly you can't just plow through the list.  After finishing each story, pause and test the application:  Does the new story work? Do the old ones still work?  Your goal is to add _non-breaking_ features to your site, one at a time and in a logical order.
-
-Each time you finish a feature, mark the commit with a [Version Release](https://help.github.com/articles/creating-releases/).  This will allow you to easily check out previous versions of the website.
-
-This skills is central to the Agile methodology.  Practice it now while you're still building basic web pages, it will be hard to learn when you're in the middle of a deployment.
+Coolering our game:
+1. Choose a new shufling
+  1. Choose shufflings by difficulty
+2. Ask for hints
 
 
 [TOP](#index)
