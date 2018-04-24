@@ -80,7 +80,7 @@ First complete version:
   2. Be told you won
 3. Load a challenge
   1. See shuffled image
-4. Display CSS ID & class
+  2. Display CSS ID & class
 
 Coolering our game:
 1. Choose a new shufling
