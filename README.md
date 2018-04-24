@@ -59,15 +59,11 @@ The system will ...
 [TOP](#index)
 ___
 
-## Story Dependencies
+## Development Dependencies
 
-Make a dependency chart for your user stories on Sketchboard.io and push it to this repository.
 
-![](./<your chart name>.png)
+![](./flexbox-game-story-requirements-dependencies.png)
 
-This chart will organize your user stories into a [tree](https://medium.freecodecamp.org/all-you-need-to-know-about-tree-data-structures-bceacb85490c) where any child cannot be developed before it's parent.  ie. "User can save data" would be a parent of "User can retrieve data".
-
-Doing this can be tricky at first but with practice will give you an incredibly powerful way to think about the development process.
 
 
 [TOP](#index)
